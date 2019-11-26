@@ -1,5 +1,3 @@
 First file in git:-)
 another line
 new line
-sub-branch 1
-sub-branch2
