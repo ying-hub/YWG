@@ -2,3 +2,4 @@ First file in git:-)
 another line
 new line
 today is a new day 
+today is a new day
